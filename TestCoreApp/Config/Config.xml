@@ -1,0 +1,31 @@
+﻿<Config>
+	<UserConfig>
+		<PosX>0</PosX>
+		<PosY>0</PosY>
+    <DataSave></DataSave>
+	</UserConfig>
+	<SystemConfig>
+		<PosXMax>10</PosXMax>
+		<PosYMax>10</PosYMax>
+		<ColorSelected>
+      <RedColor>51</RedColor>
+      <GreenColor>255</GreenColor>
+      <BlueColor>51</BlueColor>
+		</ColorSelected>
+		<ColorPositionCurrent>
+      <RedColor>0</RedColor>
+      <GreenColor>128</GreenColor>
+      <BlueColor>255</BlueColor>
+		</ColorPositionCurrent>
+    <ColorPosition>
+      <RedColor>0</RedColor>
+      <GreenColor>128</GreenColor>
+      <BlueColor>255</BlueColor>
+    </ColorPosition>
+    <ColorBlank>
+      <RedColor>255</RedColor>
+      <GreenColor>255</GreenColor>
+      <BlueColor>255</BlueColor>
+    </ColorBlank>
+	</SystemConfig>
+</Config>
